@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Правда или действие</string>
+    <string name="spin">Играть</string>
+    <string name="spin1">Назад</string>
+    <string name="truth">Правда</string>
+    <string name="dare">Действие</string>
+    <string name="action_add">+Добавить</string>
+    <string name="action_refresh">Добавить</string>
+    <string name="get_pos">НАЧНИ ИГРАТЬ!</string>
+    <string name="add_truth">+ Правда</string>
+    <string name="add_dare">+ Действие</string>
+    <string name="exist">Отмена</string>
+    <string name="spin2">Как играть ?</string>
+    <string name="prav">Правила</string>
+    <string name="spinn">Вращай бутылочку, а после на кого указала горлышко бутылочки, должен выбрать между «правдой» или «действием».</string>
+
+</resources>

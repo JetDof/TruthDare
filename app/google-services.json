@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803105244186",
+    "project_id": "truthdare-5e99d",
+    "storage_bucket": "truthdare-5e99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803105244186:android:09302fd5bb7858fd553da3",
+        "android_client_info": {
+          "package_name": "com.farizma.truthdare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803105244186-npngm7cugol2rve3kpmbf5lee9vctmvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HJ81ei1b0THn1iGqwP2VH6g3G4nkp6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803105244186-npngm7cugol2rve3kpmbf5lee9vctmvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
